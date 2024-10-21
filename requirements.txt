@@ -1,3 +1,5 @@
 pydantic>=2
 requests
 PyYAML
+langflow
+git+https://github.com/Yellowstacker1/legifrance
